@@ -1,0 +1,13 @@
+// package.json
+{
+  "name": "codequest",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "react-chartjs-2": "^5.0.0",
+    "chart.js": "^4.3.0"
+  },
+  "scripts": { "start": "react-scripts start" }
+}
